@@ -1,0 +1,77 @@
+.product-base-order-wc-settings-wrap {
+  background: #fff;
+  box-shadow: 0 0 0 1px #c8d7e1, 0 1px 2px #e9eff3;
+}
+.product-base-order-wc-settings-wrap h2.nav-tab-wrapper {
+  padding: 0;
+  background-color: #f1f1f1;
+  border-bottom: 1px solid #c8d7e1;
+}
+.product-base-order-wc-settings-wrap h2.nav-tab-wrapper a.nav-tab {
+  float: left;
+  display: block;
+  margin: 0;
+  border: none;
+  padding: 14px;
+  font-weight: 500;
+  font-size: 13px;
+  border-right: 1px solid #c8d7e1;
+  color: #444;
+  text-decoration: none;
+  margin-bottom: -1px;
+  background-color: #f1f1f1;
+  width: 130px;
+  border-bottom: 1px solid #c8d7e1;
+}
+.product-base-order-wc-settings-wrap h2.nav-tab-wrapper a.nav-tab.nav-tab-active {
+  background: #fff;
+  border-bottom: 1px solid #fff;
+}
+.product-base-order-wc-settings-wrap h2.nav-tab-wrapper a.nav-tab.nav-tab-active:first-child {
+  border-left: 0px solid #fff;
+}
+.product-base-order-wc-settings-wrap h2.nav-tab-wrapper a.nav-tab .dashicons {
+  margin-right: 10px;
+}
+.product-base-order-wc-settings-wrap a.nav-tab#wpr_pbowc_admin_settings_general-tab .dashicons {
+  color: #9b59b6;
+}
+.product-base-order-wc-settings-wrap a.nav-tab#wpr_pbowc_admin_settings_help-tab .dashicons {
+  color: #AD1457;
+}
+.product-base-order-wc-settings-wrap a.nav-tab#wpr_pbowc_admin_settings_product_page-tab .dashicons {
+  color: #e67e22;
+}
+.product-base-order-wc-settings-wrap a.nav-tab#wpr_pbowc_admin_settings_shortcodes-tab .dashicons {
+  color: #1abc9d;
+}
+.product-base-order-wc-settings-wrap .metabox-holder {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.product-base-order-wc-settings-wrap .metabox-holder h2 {
+  border-bottom: 1px solid #c8d7e1;
+  padding-bottom: 15px;
+  margin-top: 14px;
+}
+.product-base-order-wc-settings-wrap .metabox-holder p.submit {
+  margin-left: -10px;
+  border-top: 1px solid #f1f1f1;
+  padding-top: 20px;
+  text-align: right;
+  padding-right: 34px;
+}
+.product-base-order-wc-settings-wrap .metabox-holder p.submit .button-primary {
+  font-size: 15px;
+  height: 45px;
+  line-height: 100%;
+  padding: 0px 20px;
+  font-weight: normal;
+}
+.product-base-order-wc-settings-wrap .metabox-holder .form-table th {
+  padding-left: 0;
+}
+.product-base-order-wc-settings-wrap .notes-description {
+  margin-top: 20px;
+}
